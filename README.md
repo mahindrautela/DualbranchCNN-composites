@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### This code is a part of the work presented in the paper:
 
-### **Paper: Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks**
+### **Paper: Inverse characterization of composites using guided waves and convolutional neural networks with dual-branch feature fusion**
 ### https://doi.org/10.1080/15376494.2021.1982090
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Basic Details:
